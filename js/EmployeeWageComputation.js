@@ -387,5 +387,4 @@ Employee Wage Details Of Day:10Hours:0Wage:0,
 Employee Wage Details Of Day:11Hours:0Wage:0,
 Employee Wage Details Of Day:16Hours:0Wage:0
 ------------------------------------------------------------------------------------------  -----
-
 */
