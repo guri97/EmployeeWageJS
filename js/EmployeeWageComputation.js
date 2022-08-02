@@ -1,6 +1,6 @@
 console.log("Welcome to the Employee Wage Problem");
 
-///////////////////////////////UC-12///////////////////////////////
+///////////////////////////////UC-13///////////////////////////////
 /*
 Perform following Object operations using Arrow Functions
 a. Calc total Wage and total hours worked
@@ -387,4 +387,5 @@ Employee Wage Details Of Day:10Hours:0Wage:0,
 Employee Wage Details Of Day:11Hours:0Wage:0,
 Employee Wage Details Of Day:16Hours:0Wage:0
 ------------------------------------------------------------------------------------------  -----
+
 */
